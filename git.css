@@ -1,0 +1,24 @@
+
+td{
+	color: whitesmoke;
+	background-color: darkred;
+}
+th {
+	color: darkred;
+	background-color: whitesmoke;
+	justify-content: start;
+	
+}
+body{
+	text-align: center;
+	font-family: 'Baloo Chettan 2', cursive;
+}
+table {
+	display: flex;
+	justify-content: start;
+	flex-direction: column;
+		
+}
+td:hover {
+	background-color: black;
+}
